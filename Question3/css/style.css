@@ -1,0 +1,30 @@
+	.info {
+		font-size: 20px;
+		margin-left: 80px;
+	}
+
+	.format-form {
+		margin-left: 80px;
+	}
+
+	.message {
+		position: relative;
+		padding: 1rem 1rem;
+		margin-bottom: 1rem;
+		border: 1px solid transparent;
+		margin-border
+	}
+
+	.success-message {
+		background-color: green;
+		color: white;
+		text-align: center;
+	}
+
+	.error-message {
+		background-color: red;
+		color: white;
+		text-align: center;
+	}
+
+	
